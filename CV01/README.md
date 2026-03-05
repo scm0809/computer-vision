@@ -265,8 +265,8 @@ cv2.destroyAllWindows()
 ```
 ###결과 사진
 
+<img width="2347" height="1581" alt="스크린샷 2026-03-05 155354" src="https://github.com/user-attachments/assets/6527b104-13c8-4d40-809e-ce4ebf869fed" />
 
-![selected_roi](https://github.com/user-attachments/assets/a92ccd46-88d0-434d-9aa8-b1d1c2078f85)
 
 
 
